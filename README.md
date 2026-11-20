@@ -5,7 +5,7 @@
 
 # Andrew Cao
 
-I study English and religion at Penn and build websites for close reading.
+I study English and religion at Penn and design websites for close reading.
 
 <table>
 <tr>
