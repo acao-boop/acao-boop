@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/avatar-dark.svg">
-  <img src="images/avatar-light.svg" width="170" alt="Pencil sketch of Andrew in round glasses, sitting and thinking">
+  <img src="images/avatar-light.svg" width="170" alt="Pencil sketch of Andrew in round glasses, sitting on a Greek column and thinking">
 </picture>
 
 # Andrew Cao
