@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/avatar-dark.svg">
-  <img src="images/avatar-light.svg" width="220" alt="Pencil sketch of Andrew writing at his desk under a small lamp">
+  <img src="images/avatar-light.svg" width="170" alt="Pencil sketch of Andrew in round glasses, sitting and thinking">
 </picture>
 
 # Andrew Cao
